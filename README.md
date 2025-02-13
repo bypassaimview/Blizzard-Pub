@@ -1,2 +1,2 @@
 # Blizzard-Pub
-Blizzard external public repo
+Blizzard public repo
